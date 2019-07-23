@@ -26,6 +26,8 @@ function foo() {
 foo();
 console.log(idade);  
 
+// udefined 65 23 
+
 
 
 
